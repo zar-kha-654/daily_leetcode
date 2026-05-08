@@ -2,8 +2,8 @@ class Solution:
     def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
         result = []
         maximum = max(candies)
-        for i in candies : 
-            if (i + extraCandies >= maximum):
+        for i in candies:
+            if (extraCandies + i >= maximum):
                 result.append(True)
             else:
                 result.append(False)
