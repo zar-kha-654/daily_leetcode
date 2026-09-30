@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zar-kha-654/daily_leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/zar-kha-654/daily_leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/zar-kha-654/daily_leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zar-kha-654/daily_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0605-can-place-flowers](https://github.com/zar-kha-654/daily_leetcode/tree/master/0605-can-place-flowers) |
@@ -52,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/zar-kha-654/daily_leetcode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/zar-kha-654/daily_leetcode/tree/master/0605-can-place-flowers) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/zar-kha-654/daily_leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/zar-kha-654/daily_leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zar-kha-654/daily_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/zar-kha-654/daily_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
