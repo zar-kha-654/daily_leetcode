@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/zar-kha-654/daily_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zar-kha-654/daily_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0605-can-place-flowers](https://github.com/zar-kha-654/daily_leetcode/tree/master/0605-can-place-flowers) |
+| [0739-daily-temperatures](https://github.com/zar-kha-654/daily_leetcode/tree/master/0739-daily-temperatures) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/zar-kha-654/daily_leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/zar-kha-654/daily_leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/zar-kha-654/daily_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/zar-kha-654/daily_leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/zar-kha-654/daily_leetcode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/zar-kha-654/daily_leetcode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/zar-kha-654/daily_leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
