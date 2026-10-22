@@ -18,6 +18,7 @@ I use this repo to:
 
 ## 🛠 Language Used
 - Python
+- C++
 
 ## 📂 Structure
 Each folder is named as:
